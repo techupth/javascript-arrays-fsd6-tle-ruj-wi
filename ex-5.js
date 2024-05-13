@@ -21,4 +21,7 @@ const employees = [
   },
 ];
 
+const updateEmployees = employees.slice(0, 3);
+console.log(updateEmployees);
+
 // Start coding here

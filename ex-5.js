@@ -20,5 +20,8 @@ const employees = [
     hobbies: ["Computer games", "Wakeboard"],
   },
 ];
+let updateEmployees = employees.pop();
+console.log(employees);
 
-// Start coding here
+
+
